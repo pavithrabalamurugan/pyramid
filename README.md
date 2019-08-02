@@ -1,2 +1,2 @@
 # pyramid
-creating pyramid 
+creating pyramids
